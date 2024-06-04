@@ -1,0 +1,24 @@
+2024-06-04 11:07:06.223 +05:30 [INF] Now listening on: http://localhost:5199
+2024-06-04 11:07:06.276 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-04 11:07:06.279 +05:30 [INF] Hosting environment: Development
+2024-06-04 11:07:06.281 +05:30 [INF] Content root path: D:\FinalCourseModuleOfSP5\LXP_BACKEND\LXP\LXP.Api
+2024-06-04 11:07:11.292 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-06-04 11:07:12.625 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 1354.3858ms
+2024-06-04 11:07:12.657 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-06-04 11:07:12.659 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-06-04 11:07:12.664 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 7.4411ms
+2024-06-04 11:07:12.787 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 127.5517ms
+2024-06-04 11:07:12.999 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-06-04 11:07:13.285 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 285.9652ms
+2024-06-04 11:30:15.251 +05:30 [INF] Now listening on: http://localhost:5199
+2024-06-04 11:30:15.293 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-04 11:30:15.296 +05:30 [INF] Hosting environment: Development
+2024-06-04 11:30:15.297 +05:30 [INF] Content root path: D:\FinalCourseModuleOfSP5\LXP_BACKEND\LXP\LXP.Api
+2024-06-04 11:30:19.960 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-06-04 11:30:21.028 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 1075.5951ms
+2024-06-04 11:30:21.054 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-06-04 11:30:21.060 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-06-04 11:30:21.064 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 9.916ms
+2024-06-04 11:30:21.114 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 53.8072ms
+2024-06-04 11:30:21.362 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-06-04 11:30:21.573 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 210.2629ms
